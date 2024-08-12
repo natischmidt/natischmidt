@@ -1,6 +1,6 @@
 
 <h3 align="center">
-        &gt; Hey There!, I am Náti
+        &gt; Hey There! I am Náti
 </h3>
 
 <p align="center"> 
