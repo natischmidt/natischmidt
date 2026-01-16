@@ -28,14 +28,3 @@
   <br/>
 </a>
 
-
-## Projects 
-[![rps-api](https://github-readme-stats.vercel.app/api/pin/?username=natischmidt&repo=Rock-Paper-Scissors-API&border_color=d10000&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/natischmidt/Rock-Paper-Scissors-API)
-[![cleanb](https://github-readme-stats.vercel.app/api/pin/?username=natischmidt&repo=CleanCodeBackend&border_color=d10000&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/natischmidt/Clean-Code-Backend)
-[![opnotes](https://github-readme-stats.vercel.app/api/pin/?username=natischmidt&repo=OP-Notes-React-App&border_color=d10000&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/natischmidt/OP-Notes-React-App)
-[![timerfront](https://github-readme-stats.vercel.app/api/pin/?username=natischmidt&repo=Time-Saver-Frontend&border_color=d10000&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/natischmidt/Time-Saver-Frontend)
-[![reactrps](https://github-readme-stats.vercel.app/api/pin/?username=natischmidt&repo=React-Native-RPS&border_color=d10000&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/natischmidt/React-Native-RPS)
-[![rps-api](https://github-readme-stats.vercel.app/api/pin/?username=natischmidt&repo=Rock-Paper-Scissors-API&border_color=d10000&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/natischmidt/Rock-Paper-Scissors-API)
-
-
-
