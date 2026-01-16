@@ -5,7 +5,7 @@
 
 <p align="center"> 
     <br>
-      I am a full stack developer with a passion for crafting innovative solutions. My expertise spans a wide range of technologies, including Java, JavaScript, TypeScript, and C#. Whether it's building dynamic user interfaces with React or developing robust server-side applications, I enjoy the creative process of bringing ideas to life through code.
+      I am a full stack developer . My expertise spans a wide range of technologies, including Java, JavaScript, TypeScript, Angular, Springboot, Phyton, React, React native, C# and a few more. 
     <br>
     <br>
 </p>
@@ -17,15 +17,6 @@
  </a>
 </p>
 <br />
-
- # About me
- 
-**Fullstack Developer**: I thrive in the dynamic intersection of frontend and backend development, specializing in technologies like React, Node.js, and Spring Boot.
-
-**Tech Enthusiast**: From Java and JavaScript to TypeScript and C#, I have a diverse skill set. My passion extends to crafting clean code and building innovative solutions.
-
-**Collaborative Mindset**: I believe in the power of teamwork. I enjoy collaborating with like-minded individuals to create impactful and scalable applications.
-
 <br/>
 <br/>
 <br/>
